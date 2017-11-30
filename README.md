@@ -6,5 +6,5 @@ Repositório para testes :)
 
 ## Screenshots
 <p align="center">
-  <img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAaQAAAAJDUzOTE4ZjUyLWVjMzUtNDBkMi1iNmNlLTA3YjM4NjAyMDdlNQ.jpg" width="600"/>
+  <img src="http://sf.co.ua/16/03/wallpaper-3ac52.jpg" width="600"/>
 </p>
